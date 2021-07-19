@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Java\Workspace\UFF - POO\Heranca e Polimorfismo, Classes Gen Uff\.metadata\.plugins\org.eclipse.jdt.core
+3476784544.index
+557180044.index
+1446171674.index

@@ -1,0 +1,9 @@
+
+public class FiguraGeometrica {
+
+	//METODOS
+	
+	public double calculaArea() {
+		return 0.0;
+	}
+}
